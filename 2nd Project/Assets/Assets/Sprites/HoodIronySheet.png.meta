@@ -1,0 +1,3370 @@
+fileFormatVersion: 2
+guid: 70352c0af9c7e884fbd7f463e8b293fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HoodIronySheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2903
+        width: 136
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15bab0086d2414988e942ba599a147
+      internalID: 749574150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2903
+        width: 136
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9169af870cb8f334a8b54d554c509133
+      internalID: -1642163061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2903
+        width: 133
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f3efe52cf8d44cab1740d3926e24c
+      internalID: 1628401106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2903
+        width: 130
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da748e8477a16044192bac91670a3a28
+      internalID: -722351427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_4
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2903
+        width: 124
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142324bab216444478f7a7359d4c0d2e
+      internalID: -1432063156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2904
+        width: 116
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e101cfd66a1947a78c4c76569ff4d
+      internalID: -1910925407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_6
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2904
+        width: 106
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68370e1e0f6cc84c8dfbd7c841c3619
+      internalID: -685898516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_7
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2904
+        width: 97
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f266d59028e734f8a70e0bc7c09c26
+      internalID: 1231608019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_8
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2904
+        width: 88
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0128694ed7093bd4d9c80ae89c63fb72
+      internalID: 1875262477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_9
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2904
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740b1bf15f7d898459879b233fb162c7
+      internalID: 160549588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_10
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 2904
+        width: 64
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4e96dc96246545931f878ee43a7a6
+      internalID: 1198103851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_11
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2904
+        width: 57
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559540c8a0e58f44d8c2d6f0f24d0c0b
+      internalID: 783007941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_12
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2903
+        width: 66
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9d0cd21fbe88438ba02133ce52ddd
+      internalID: -1115186405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2640
+        width: 71
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6871906bced3c40aa92c33045accae
+      internalID: -206268126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2640
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41975a2218a04ff4597fcd11a5a3ec2d
+      internalID: -812325474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2640
+        width: 96
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99162412212f1674897c5e5ac1636ccc
+      internalID: 1408127307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2640
+        width: 106
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad0e546cb43986429a5442aa0a229cc
+      internalID: 1546055111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_17
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2640
+        width: 115
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ed01301bf82f5428ae48d86b3b458d
+      internalID: 280398578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_18
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2640
+        width: 120
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a965d00ce763f41bf2f55329b5ddbb
+      internalID: 1150421790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_19
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2640
+        width: 124
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79555b26e32b374cbc173e461f14db0
+      internalID: 1577344144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_20
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2640
+        width: 128
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c8e45eb279494dbe2b2133bf29c62
+      internalID: -49061275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_21
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2640
+        width: 127
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57e083df69ae8e49aa86a3851cf8acd
+      internalID: -1903882087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2638
+        width: 125
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358dd8046a2c2ff48b6e38cc0ff2bea7
+      internalID: -1858475311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_23
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2638
+        width: 124
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7debc9b398fe1ca4aaf5e546e07b847e
+      internalID: -1617369954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_24
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2638
+        width: 117
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e33b162d795d34c8d7e50732252d63
+      internalID: 1074660771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_25
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2638
+        width: 112
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08379c84439012e4d95eec6cca1d941f
+      internalID: 262395209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2374
+        width: 103
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174abc694078a664b99101c59fad679c
+      internalID: 191479839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2374
+        width: 92
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b457bc55e2b6147bcd04db738fe33f
+      internalID: -704421657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2374
+        width: 89
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9320e862904145aa672d563520b37
+      internalID: -1487905355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2374
+        width: 85
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b9ad3bd2c135248a9beb8000c3912e
+      internalID: 881373011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2374
+        width: 82
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21690b79bb6d34aac9dc5725b59f9a
+      internalID: -24133658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2374
+        width: 71
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f543bf9248a4bf499eb10b845ce6fbb
+      internalID: -1040686666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_32
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2374
+        width: 63
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb5be53ef286db4190c0491f3edfd2c
+      internalID: 405388401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_33
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2374
+        width: 62
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254b07bac73d2ae48841eef0ea5d5346
+      internalID: 1020570992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_34
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2374
+        width: 69
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b755709af68d04bb569053b1d942c7
+      internalID: 1059405987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_35
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2374
+        width: 77
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8408e3ec91a05c7469a7133088ffd9fc
+      internalID: 1929862887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_36
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2374
+        width: 85
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ecd79ec4a35594aaa242521913786a
+      internalID: 1265943782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_37
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2374
+        width: 99
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59eff4cc63a40143ac2ac063d8123b7
+      internalID: -1594863335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_38
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2374
+        width: 111
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f745ff3dd0828742991c6e245c0d0ce
+      internalID: -2077689121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2111
+        width: 120
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f723930f393c4eaf0520a7ce9974d
+      internalID: 1892256353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2111
+        width: 129
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ec2d193ca049d4a97256cb9667c768
+      internalID: 2127463193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2111
+        width: 132
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0952d023ddfa4787760c2793d95c3
+      internalID: 1807043190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_42
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2111
+        width: 134
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f4c65007e63594aba5a1d8825a1951
+      internalID: -1023201079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2111
+        width: 135
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96cf179ce55cf146b85969929bca8eb
+      internalID: -2226260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_44
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2111
+        width: 133
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b854aa2e983bed468bf516f746869c4
+      internalID: 779690826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_45
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2111
+        width: 131
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52457cfe494934f49a1fe5129a3327a6
+      internalID: 1471907537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_46
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2111
+        width: 122
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8d2a59ceb864e4ea23cb3a74bad8ea
+      internalID: 938451310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_47
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2112
+        width: 116
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa5cf132265844aa252f767a9c7592
+      internalID: -886826009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_48
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2114
+        width: 107
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a6b1cea5d541c48ae5fe5659516228
+      internalID: -585094667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_49
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2112
+        width: 97
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734dd7801cf3c5489b29afe2db58c3b
+      internalID: -736705291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_50
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2114
+        width: 88
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb8c6b19a750bf4a94fd91d257f7160
+      internalID: 828174751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_51
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2112
+        width: 74
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371476b155d187e4b99a73823adf86da
+      internalID: -2144079442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1848
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17804690ef965e44a811c177b9afc7e8
+      internalID: -1470150126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_53
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1848
+        width: 59
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea6878875a6a44bb84d44f0f37b26b
+      internalID: 638183474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1848
+        width: 66
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2df2fcef40f84488d6af000a85f40
+      internalID: -1208870025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1848
+        width: 69
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea9860f33f8afa44b672a199014bf52
+      internalID: -2038558632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_56
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1848
+        width: 82
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02bba2a83e65264198096f6a40b63a8
+      internalID: 215019441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_57
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1848
+        width: 95
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc310d145b3e74fa3f41c8eaa04f8b
+      internalID: -97109094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_58
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1848
+        width: 103
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd5f8d4e28cea4cbcca57b7c1eb2e2
+      internalID: 1073636502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_59
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1848
+        width: 113
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc2e4ce3fad9f419e00a90709b63d8
+      internalID: 2064928993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_60
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1848
+        width: 120
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f008b67da8502438c60dec47a33820
+      internalID: -152532985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_61
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1848
+        width: 123
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b605ce35c22648458fd526bda29ea42
+      internalID: -646923291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_62
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1848
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5ae3449d3c2e4f9a16bf9b368bf77
+      internalID: -1235886063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_63
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1848
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cc09f2a0d628c419f82b4aeb93a461
+      internalID: -259991636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_64
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1846
+        width: 125
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1d58905876a7d4aafab9a0ff3119f3
+      internalID: -1314098206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1582
+        width: 123
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dda6ddeba49004fb95fb135d8a0937
+      internalID: -446615802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1582
+        width: 116
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22987ff0ccc170143a42ee6dcadfb618
+      internalID: -1179612523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1582
+        width: 111
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef60eb7a0708184688ea46571ba94e9
+      internalID: -204986554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_68
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1582
+        width: 104
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99e3978419940f4388ddd278a40d72e
+      internalID: 646779216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1582
+        width: 95
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94722e15d3cf247498ec611135a56b72
+      internalID: 1758010558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_70
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1582
+        width: 89
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b0fd1a78cb7147829ef73f40d8835
+      internalID: -824320652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_71
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1582
+        width: 83
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e0cb126a6f1b4fb0cf518f5569fce
+      internalID: 1483196939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_72
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1582
+        width: 79
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac54744e952104cada6f104edeef0a
+      internalID: 1073270549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_73
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1582
+        width: 71
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a3f4506252e0840b6e6e3da1dbdc1d
+      internalID: 544460563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_74
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1582
+        width: 61
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b37b346649b3545b629935f6a7801b
+      internalID: 125446829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_75
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1582
+        width: 62
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed29771b8025c5e4bbea73c03066887e
+      internalID: 334283626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_76
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1582
+        width: 68
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdcecdda52030341bbc8b1bb6bbf4f0
+      internalID: 751512369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_77
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1582
+        width: 77
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76000a31e9a153149b88149ccddf6498
+      internalID: 1555588388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1319
+        width: 83
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e1b9a8b46b17940a8de3d02626c483
+      internalID: 883718243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_79
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1319
+        width: 98
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54743fad12c14de418bb5b8ba1a2855b
+      internalID: 2073731383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_80
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1319
+        width: 112
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa27e72016c61d42be0f49ff622ae8a
+      internalID: 95036988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1319
+        width: 119
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a283d767145d42be4565aeaeb09c0
+      internalID: -15322900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_82
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1319
+        width: 128
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645445f66c97af044a95dcc8a4edc3af
+      internalID: -1662588202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_83
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1319
+        width: 132
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd060b1113cc34599b6f88145b5519
+      internalID: 399754565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_84
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1319
+        width: 134
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b09feefc3d22f4bbd0becf3d18f0ff
+      internalID: 1946286251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_85
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1319
+        width: 136
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ccb24d8ac657439f1975f2a40af7c
+      internalID: 2036038621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_86
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1319
+        width: 131
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c99ae3970ec84aa6f4efc116283ac
+      internalID: -1375010331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_87
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1319
+        width: 129
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c79a6cbddcf274c9ccc20b44d81377
+      internalID: 619131210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_88
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1319
+        width: 123
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578014710bd943245a9c301b7a82041f
+      internalID: -1231074961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_89
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1320
+        width: 116
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f39a476c9296947af98975db36c35e
+      internalID: -881697540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_90
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1322
+        width: 106
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19249141c2fcab640be267774ff4b8bf
+      internalID: -1493961763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1056
+        width: 97
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c4ded49e18dc4bb109a834faf1edb
+      internalID: -119516455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_92
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1056
+        width: 86
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146c137f53456294d8d9c73a3a3f595d
+      internalID: -1108147150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_93
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1057
+        width: 74
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb04d4d498c5149ad514b5ee07d1a7
+      internalID: 1121760010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1056
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c536ac17e556b4b9b64d9ff2509c39
+      internalID: -377293684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_95
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1057
+        width: 58
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7397213304e9d2147be17beb9b196630
+      internalID: -1687810591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_96
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1056
+        width: 63
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11f9d80b15127489aa3f958fba9cd0
+      internalID: 1474198746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_97
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1056
+        width: 71
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a582e60c3100e44f9f749317c083895
+      internalID: 1602758060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_98
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1056
+        width: 81
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4431171e61300d4faef54aaefee7426
+      internalID: 1412434773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_99
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1056
+        width: 94
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57fbe89c0ec8d744af3b6caaaa9e1cf
+      internalID: 41912836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_100
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1056
+        width: 106
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd754d728b719ca4cabbd94386ae9da5
+      internalID: 1583368335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_101
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1056
+        width: 112
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7d6379a7c8c2a4a93374c4059645be
+      internalID: -1166699370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_102
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1056
+        width: 118
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53599e788300704f81efa8ad5b1bfd6
+      internalID: -129042803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_103
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1056
+        width: 124
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3307e720381a2134fa377fff7a52b76e
+      internalID: -76800248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 791
+        width: 125
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097d37a0f54ca284f8bf800c9f6228a1
+      internalID: 1824808101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 791
+        width: 127
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077dc0930b19e4439a58d7847db4c3f
+      internalID: 1147834863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_106
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 791
+        width: 125
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3173940eab8bbbb4a9e3f4b8ea08ae38
+      internalID: 525732345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_107
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 790
+        width: 122
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4693b0aabdae3f4894355f9944ec692
+      internalID: -1979044233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_108
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 790
+        width: 117
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab6c0cb747ce24cbfa955328c97ac6
+      internalID: -655355963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_109
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 790
+        width: 111
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746d2e1a15ce3648b3df383e4714d6e
+      internalID: 1360483976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_110
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 790
+        width: 103
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44637e3173481644ab8069e6e79cc205
+      internalID: 55621447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_111
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 790
+        width: 96
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f787a3957c2f48858feb64830501d
+      internalID: 47229651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_112
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 790
+        width: 90
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32b621b409242347a4a1613b13ed259
+      internalID: 392084706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_113
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 790
+        width: 83
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1a47317c49f640a90bee63728326b
+      internalID: -506170979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_114
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 790
+        width: 77
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c609d1f5271e4eaba9b5127adba3a
+      internalID: -332120887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_115
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 790
+        width: 71
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de39457175f144e808a5ece9ee0a74
+      internalID: 473594511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_116
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 790
+        width: 63
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca010a4dc5b4be40b009494ad3e090e
+      internalID: -94339976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 141
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0a24b8ba5947448ec3931abb205e2
+      internalID: -563678177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_118
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 527
+        width: 61
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f81747ddb6d3d4a8840cbac5bff08b
+      internalID: -87503617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_119
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 527
+        width: 69
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e56556eecbad479479bda7ae7761a
+      internalID: -1081032767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_120
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 527
+        width: 77
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1d301fa26880c42b163ccac26af073
+      internalID: -1742790707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_121
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 527
+        width: 86
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7394ae9d96a5564485a19751985b3d7
+      internalID: -830244396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_122
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 527
+        width: 98
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c6b8bb70508f429e512bbbfcfede7
+      internalID: 1514409150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_123
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 527
+        width: 111
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86394e3e07a370848a63fff9482d94f5
+      internalID: 2065090868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_124
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 527
+        width: 120
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad4d3a123609d34b8f9d69cdc0fe155
+      internalID: 1649761021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_125
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 527
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d283352dfe2f428fd841eb7e55444
+      internalID: 636623754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_126
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 527
+        width: 132
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea50a17254886c9488410a660d1e13a0
+      internalID: -2030861277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_127
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 527
+        width: 133
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ed69ee0137a4428343c7946b419eb
+      internalID: 210028602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_128
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 527
+        width: 135
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4df02bab84db5749bcc5fffac068f5d
+      internalID: 876581847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_129
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 527
+        width: 133
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec211e9c8b35b4283349c00b47f221
+      internalID: -1521676060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_130
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 527
+        width: 128
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5728adf5c099943a6281292bf5633a
+      internalID: -1481120422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_131
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 264
+        width: 116
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a2e0287dfc0d642a9787a72c414192
+      internalID: -1372344117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_132
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 265
+        width: 105
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e054d83dab50bb341947e16942db8e4d
+      internalID: 1013370893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_133
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 265
+        width: 97
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f67bf124a418b42b2e9d6f281c59f3
+      internalID: 34424997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_134
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 264
+        width: 86
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0775df5643194594a9a468a746119
+      internalID: 2131683942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_135
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 265
+        width: 74
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf32dfb0a4bde6944b44bd305b8a8906
+      internalID: 466529588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_136
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 264
+        width: 64
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c517a4738fa67c74594ee4736d0f0382
+      internalID: 1795875787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_137
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 264
+        width: 59
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aac1b4b2a545d4e941f53036475e77
+      internalID: 738295314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_138
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 264
+        width: 65
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b0374bbb1d694db239c2b9dbe6659
+      internalID: -243169062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_139
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 264
+        width: 69
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0d8ef8b465394f87e05e7d0048d9b
+      internalID: 767829677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_140
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 264
+        width: 83
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d8f936b1137844bf6ebea43441d0d
+      internalID: 1985307799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_141
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 264
+        width: 94
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078d4cf5800fd84c853422b6ed09851
+      internalID: -1047621738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_142
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 264
+        width: 104
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6cdc76d87e9714a88cae5fa462b1c0
+      internalID: -584987295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_143
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 113
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1027e0645890445408d6edaf7a784cce
+      internalID: -1552649873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_144
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 119
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dea94044d39f4409044b211d50842f
+      internalID: 460965737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_145
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 124
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b3589553481947b5975f97a49efb5
+      internalID: -1480323388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_146
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 125
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cd32bb4f3fb8041aa47170a5ff2c0b
+      internalID: -1208136488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoodIronySheet_147
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 126
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a8570e2aa2f5d46a0b69abc7dfc031
+      internalID: -442458520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 948d7b173ade4fb42b89b2ccb7d18eaa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HoodIronySheet_0: 749574150
+      HoodIronySheet_1: -1642163061
+      HoodIronySheet_10: 1198103851
+      HoodIronySheet_100: 1583368335
+      HoodIronySheet_101: -1166699370
+      HoodIronySheet_102: -129042803
+      HoodIronySheet_103: -76800248
+      HoodIronySheet_104: 1824808101
+      HoodIronySheet_105: 1147834863
+      HoodIronySheet_106: 525732345
+      HoodIronySheet_107: -1979044233
+      HoodIronySheet_108: -655355963
+      HoodIronySheet_109: 1360483976
+      HoodIronySheet_11: 783007941
+      HoodIronySheet_110: 55621447
+      HoodIronySheet_111: 47229651
+      HoodIronySheet_112: 392084706
+      HoodIronySheet_113: -506170979
+      HoodIronySheet_114: -332120887
+      HoodIronySheet_115: 473594511
+      HoodIronySheet_116: -94339976
+      HoodIronySheet_117: -563678177
+      HoodIronySheet_118: -87503617
+      HoodIronySheet_119: -1081032767
+      HoodIronySheet_12: -1115186405
+      HoodIronySheet_120: -1742790707
+      HoodIronySheet_121: -830244396
+      HoodIronySheet_122: 1514409150
+      HoodIronySheet_123: 2065090868
+      HoodIronySheet_124: 1649761021
+      HoodIronySheet_125: 636623754
+      HoodIronySheet_126: -2030861277
+      HoodIronySheet_127: 210028602
+      HoodIronySheet_128: 876581847
+      HoodIronySheet_129: -1521676060
+      HoodIronySheet_13: -206268126
+      HoodIronySheet_130: -1481120422
+      HoodIronySheet_131: -1372344117
+      HoodIronySheet_132: 1013370893
+      HoodIronySheet_133: 34424997
+      HoodIronySheet_134: 2131683942
+      HoodIronySheet_135: 466529588
+      HoodIronySheet_136: 1795875787
+      HoodIronySheet_137: 738295314
+      HoodIronySheet_138: -243169062
+      HoodIronySheet_139: 767829677
+      HoodIronySheet_14: -812325474
+      HoodIronySheet_140: 1985307799
+      HoodIronySheet_141: -1047621738
+      HoodIronySheet_142: -584987295
+      HoodIronySheet_143: -1552649873
+      HoodIronySheet_144: 460965737
+      HoodIronySheet_145: -1480323388
+      HoodIronySheet_146: -1208136488
+      HoodIronySheet_147: -442458520
+      HoodIronySheet_15: 1408127307
+      HoodIronySheet_16: 1546055111
+      HoodIronySheet_17: 280398578
+      HoodIronySheet_18: 1150421790
+      HoodIronySheet_19: 1577344144
+      HoodIronySheet_2: 1628401106
+      HoodIronySheet_20: -49061275
+      HoodIronySheet_21: -1903882087
+      HoodIronySheet_22: -1858475311
+      HoodIronySheet_23: -1617369954
+      HoodIronySheet_24: 1074660771
+      HoodIronySheet_25: 262395209
+      HoodIronySheet_26: 191479839
+      HoodIronySheet_27: -704421657
+      HoodIronySheet_28: -1487905355
+      HoodIronySheet_29: 881373011
+      HoodIronySheet_3: -722351427
+      HoodIronySheet_30: -24133658
+      HoodIronySheet_31: -1040686666
+      HoodIronySheet_32: 405388401
+      HoodIronySheet_33: 1020570992
+      HoodIronySheet_34: 1059405987
+      HoodIronySheet_35: 1929862887
+      HoodIronySheet_36: 1265943782
+      HoodIronySheet_37: -1594863335
+      HoodIronySheet_38: -2077689121
+      HoodIronySheet_39: 1892256353
+      HoodIronySheet_4: -1432063156
+      HoodIronySheet_40: 2127463193
+      HoodIronySheet_41: 1807043190
+      HoodIronySheet_42: -1023201079
+      HoodIronySheet_43: -2226260
+      HoodIronySheet_44: 779690826
+      HoodIronySheet_45: 1471907537
+      HoodIronySheet_46: 938451310
+      HoodIronySheet_47: -886826009
+      HoodIronySheet_48: -585094667
+      HoodIronySheet_49: -736705291
+      HoodIronySheet_5: -1910925407
+      HoodIronySheet_50: 828174751
+      HoodIronySheet_51: -2144079442
+      HoodIronySheet_52: -1470150126
+      HoodIronySheet_53: 638183474
+      HoodIronySheet_54: -1208870025
+      HoodIronySheet_55: -2038558632
+      HoodIronySheet_56: 215019441
+      HoodIronySheet_57: -97109094
+      HoodIronySheet_58: 1073636502
+      HoodIronySheet_59: 2064928993
+      HoodIronySheet_6: -685898516
+      HoodIronySheet_60: -152532985
+      HoodIronySheet_61: -646923291
+      HoodIronySheet_62: -1235886063
+      HoodIronySheet_63: -259991636
+      HoodIronySheet_64: -1314098206
+      HoodIronySheet_65: -446615802
+      HoodIronySheet_66: -1179612523
+      HoodIronySheet_67: -204986554
+      HoodIronySheet_68: 646779216
+      HoodIronySheet_69: 1758010558
+      HoodIronySheet_7: 1231608019
+      HoodIronySheet_70: -824320652
+      HoodIronySheet_71: 1483196939
+      HoodIronySheet_72: 1073270549
+      HoodIronySheet_73: 544460563
+      HoodIronySheet_74: 125446829
+      HoodIronySheet_75: 334283626
+      HoodIronySheet_76: 751512369
+      HoodIronySheet_77: 1555588388
+      HoodIronySheet_78: 883718243
+      HoodIronySheet_79: 2073731383
+      HoodIronySheet_8: 1875262477
+      HoodIronySheet_80: 95036988
+      HoodIronySheet_81: -15322900
+      HoodIronySheet_82: -1662588202
+      HoodIronySheet_83: 399754565
+      HoodIronySheet_84: 1946286251
+      HoodIronySheet_85: 2036038621
+      HoodIronySheet_86: -1375010331
+      HoodIronySheet_87: 619131210
+      HoodIronySheet_88: -1231074961
+      HoodIronySheet_89: -881697540
+      HoodIronySheet_9: 160549588
+      HoodIronySheet_90: -1493961763
+      HoodIronySheet_91: -119516455
+      HoodIronySheet_92: -1108147150
+      HoodIronySheet_93: 1121760010
+      HoodIronySheet_94: -377293684
+      HoodIronySheet_95: -1687810591
+      HoodIronySheet_96: 1474198746
+      HoodIronySheet_97: 1602758060
+      HoodIronySheet_98: 1412434773
+      HoodIronySheet_99: 41912836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
